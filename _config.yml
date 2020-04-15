@@ -27,7 +27,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: zh # the language of your site, default as "en"
 timezone:	Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -41,8 +41,8 @@ author:
   bio       : 一般會社員
   email     : wfy00800@163.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : https://twitter.com/Dean_wfy # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : https://weibo.com/deanwfy # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  twitter   : Dean_wfy # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  weibo     : deanwfy # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
